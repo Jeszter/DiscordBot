@@ -89,3 +89,5 @@ client.login('ODAyODUwNzUzNzk4MDc4NDY0.YA1PBw.BF6zndyQysdakQHMGsjBIrMaVJk') // �
 // Хотите, чтобы ваш бот работал 24/7 бесплатно? Смотрите это видео: https://www.youtube.com/watch?v=wxdl4QK0am4
 
 // Bot by Sanich https://youtube.com/sanich - фишки, гайды по приложению Discord
+
+client.login(process.env.BOT_TOKEN)
